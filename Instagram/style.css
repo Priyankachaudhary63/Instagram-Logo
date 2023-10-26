@@ -1,0 +1,46 @@
+body{
+    display: grid;
+    place-items: center;
+}
+.frist{
+    height: 300px;
+    width: 300px;
+    border: 2px solid rgba(234, 221, 221, 0.908);
+    border-radius: 60px;
+    /* background-color: rgba(229, 33, 229, 0.909); */
+background: linear-gradient(45deg,#f09433 0%,#e6683c 25%,#dc2347 50%,#cc2366 75%,#4862c9 100%);
+
+}
+.second{
+    height: 150px;
+    width: 150px;
+    border:30px solid white ;
+    border-radius:30px ;
+    margin-top: 45px;
+    margin-left: 45px;
+
+    
+}
+.third{
+    height: 50px;
+    width: 50px;
+    border:30px solid white;
+     border-radius:50px ;
+    margin-left: 20px;
+    margin-bottom: 20px; 
+   
+
+}
+.fourth{
+    height: 5px;
+    width: 5px;
+    border: 8px solid white;
+    margin-top: 6px;
+    margin-left: 105px;
+    border-radius: 50px;
+}
+.five{
+    height: 2px;
+    width: 2px;
+    border:5px solid white ;
+}
